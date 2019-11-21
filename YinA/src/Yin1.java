@@ -13,6 +13,6 @@ public class Yin1 {
 		}
 		System.out.println(c);
 
-	}
+	}//Hello domo boku ga koko
 
 }
